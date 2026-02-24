@@ -80,7 +80,7 @@ Add to your OpenClaw MCP config:
         "GRAPH_TENANT_ID": "your-tenant-id",
         "GRAPH_CLIENT_ID": "your-client-id",
         "GRAPH_CLIENT_SECRET": "your-client-secret",
-        "DEFAULT_FROM_EMAIL": "marinabot@obstechnologies.com"
+        "DEFAULT_FROM_EMAIL": "your-sender@example.com"
       }
     }
   }

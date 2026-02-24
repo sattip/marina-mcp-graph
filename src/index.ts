@@ -18,7 +18,7 @@ function loadConfig() {
     tenantId: required("GRAPH_TENANT_ID"),
     clientId: required("GRAPH_CLIENT_ID"),
     clientSecret: required("GRAPH_CLIENT_SECRET"),
-    defaultFromEmail: process.env.DEFAULT_FROM_EMAIL || "marinabot@obstechnologies.com",
+    defaultFromEmail: process.env.DEFAULT_FROM_EMAIL || "sender@example.com",
   };
 }
 
